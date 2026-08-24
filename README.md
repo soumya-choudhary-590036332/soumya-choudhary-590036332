@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**soumya-choudhary-590036332/soumya-choudhary-590036332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm soumya
+ - Computer Science Student
+ - Learning Web Development & c programming
+ - Building projects and learning new technologies
+## Skills 
+- HTML / c programming
+-  Git & GitHub  
+## Current Goals 
+- Build real-world projects
+- - Improve programming and software design skills
+  - - Contribute to open-source projects  
+## Connect With Me 
+- Email: soumya.36332@stu.upes.in
